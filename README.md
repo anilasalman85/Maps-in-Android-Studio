@@ -1,4 +1,4 @@
-# Android Maps Application (MyMapsAppFullCode)
+# Android Maps Application 
 
 ## Overview
 
